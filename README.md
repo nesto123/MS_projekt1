@@ -1,1 +1,1 @@
-# -MS-_projekt1
+# Matematički softver 1. projekt
